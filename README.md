@@ -7,9 +7,11 @@ useful to you:
 
 * [Humble Coder: Arduino finite state machine library][1]
 * [Humble Coder: Arduino multitasking using a finite state machine][2]
+* [State machine for Arduino - Arduino Slovakia][3]
 
 [1]: http://www.humblecoder.com/arduino-finite-state-machine-library/
 [2]: http://www.humblecoder.com/arduino-multitasking-using-finite-state-machines/
+[3]: https://www.arduinoslovakia.eu/blog/2018/2/stavovy-automat-pre-arduino?lang=en
 
 # Contribution
 
